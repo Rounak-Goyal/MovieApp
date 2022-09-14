@@ -6,6 +6,8 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="app_name">MovieApplication</string>
     <string name="top_current_movies">Top Current Movies</string>
     <style name="Theme.MovieApplication" parent="Theme.MaterialComponents.NoActionBar">

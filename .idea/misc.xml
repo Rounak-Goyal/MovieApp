@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Machine Learning/Android version/MovieApplication/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/Machine Learning/Android version/MovieApplication/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1701388888888889" />
+        <entry key="..\:/Machine Learning/Android version/MovieApplication/app/src/main/res/layout/activity_login.xml" value="0.22685185185185186" />
+        <entry key="..\:/Machine Learning/Android version/MovieApplication/app/src/main/res/layout/activity_main.xml" value="0.39351851851851855" />
+        <entry key="..\:/Machine Learning/Android version/MovieApplication/app/src/main/res/layout/activity_recommend.xml" value="0.1" />
+        <entry key="..\:/Machine Learning/Android version/MovieApplication/app/src/main/res/layout/dropdown_item.xml" value="0.22685185185185186" />
         <entry key="..\:/wAndroid Development/MovieApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1555" />
         <entry key="..\:/wAndroid Development/MovieApplication/app/src/main/res/drawable/gradient.xml" value="0.155" />
         <entry key="..\:/wAndroid Development/MovieApplication/app/src/main/res/drawable/ic_round_navigate_before_24.xml" value="0.1555" />

@@ -16,6 +16,10 @@
         "source": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-main-27:\\drawable\\icon.jpeg"
     },
     {
+        "merged": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-merged_res-25:\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-main-27:\\layout\\dropdown_item.xml"
+    },
+    {
         "merged": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-merged_res-25:\\layout_activity_movie_detail.xml.flat",
         "source": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-main-27:\\layout\\activity_movie_detail.xml"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-merged_res-25:\\layout_activity_recommend.xml.flat",
+        "source": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-main-27:\\layout\\activity_recommend.xml"
     },
     {
         "merged": "C:\\Users\\rounak\\.android\\daemon\\7.3.3\\com.example.movieapplication.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",

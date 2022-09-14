@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MovieApplication" >
         <activity
+            android:name="com.example.movieapplication.ui.RecommendActivity"
+            android:exported="true" />
+        <activity
             android:name="com.example.movieapplication.ui.MovieDetailActivity"
             android:exported="true" />
         <activity

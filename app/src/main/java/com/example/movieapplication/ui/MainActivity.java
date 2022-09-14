@@ -7,9 +7,11 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -33,6 +35,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
 
+    public Button btn_show_recommendations;
     public TextView tv_page;
     public ImageButton ib_next,ib_prev;
     private int page;
@@ -74,9 +77,18 @@ public class MainActivity extends AppCompatActivity {
         page = Integer.parseInt((String) tv_page.getText());
         ib_prev = findViewById(R.id.ib_prev);
         ib_next = findViewById(R.id.ib_next);
+        btn_show_recommendations = findViewById(R.id.btn_show_recommendations);
 
         loadJSON();
         nowPlayingMovieAdapter.notifyDataSetChanged();
+
+        btn_show_recommendations.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this,RecommendActivity.class);
+                startActivity(intent);
+            }
+        });
 
         ib_prev.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("SetTextI18n")

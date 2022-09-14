@@ -6,115 +6,121 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+8-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+9-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:5:5-66
-11-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:5:22-64
+11-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- COMMENT OUT THE LINES BELOW FOR NON-ANDROID 11 APPS -->
-12-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:6:5-79
-12-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:6:22-76
+12-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:6:22-76
 13    <queries>
-13-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:7:5-11:15
+13-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:7:5-11:15
 14        <intent>
-14-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:8:9-10:18
+14-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:8:9-10:18
 15            <action android:name="com.google.android.youtube.api.service.START" />
-15-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:9:13-83
-15-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:9:21-80
+15-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:9:13-83
+15-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:9:21-80
 16        </intent>
 17    </queries>
 18
 19    <application
-19-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:14:5-42:19
+19-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:14:5-45:19
 20        android:allowBackup="true"
-20-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:15:9-35
+20-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:15:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.7.0] C:\Users\rounak\.android\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
 23        android:extractNativeLibs="false"
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:16:9-43
+24-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:16:9-43
 25        android:label="@string/app_name"
-25-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:17:9-41
+25-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:17:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:18:9-54
+26-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:18:9-54
 27        android:supportsRtl="true"
-27-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:19:9-35
+27-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:19:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.MovieApplication" >
-29-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:20:9-54
+29-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:20:9-54
 30        <activity
-30-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:21:9-23:39
-31            android:name="com.example.movieapplication.ui.MovieDetailActivity"
-31-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:22:13-51
+30-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:21:9-23:39
+31            android:name="com.example.movieapplication.ui.RecommendActivity"
+31-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:22:13-49
 32            android:exported="true" />
-32-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:23:13-36
+32-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:23:13-36
 33        <activity
-33-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:24:9-32:20
-34            android:name="com.example.movieapplication.ui.SplashActivity"
-34-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:25:13-46
-35            android:exported="true" >
-35-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:26:13-36
-36            <intent-filter>
-36-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:27:13-31:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:28:17-69
-37-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:28:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:30:17-77
-39-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:30:27-74
-40            </intent-filter>
-41        </activity>
-42        <activity
-42-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:33:9-41:20
-43            android:name="com.example.movieapplication.ui.MainActivity"
-43-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:34:13-44
-44            android:exported="true" >
-44-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:35:13-36
-45            <intent-filter>
-45-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:27:13-31:29
-46                <action android:name="android.intent.action.MAIN" />
-46-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:28:17-69
-46-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:28:25-66
-47
-48                <category android:name="android.intent.category.LAUNCHER" />
-48-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:30:17-77
-48-->D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:30:27-74
-49            </intent-filter>
-50        </activity>
-51
-52        <provider
-52-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
-53            android:name="com.squareup.picasso.PicassoProvider"
-53-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
-54            android:authorities="com.example.movieapplication.com.squareup.picasso"
-54-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
-55            android:exported="false" />
-55-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
-56        <provider
-56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-57            android:name="androidx.startup.InitializationProvider"
-57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-58            android:authorities="com.example.movieapplication.androidx-startup"
-58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-59            android:exported="false" >
-59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-60            <meta-data
-60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-62                android:value="androidx.startup" />
-62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+33-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:24:9-26:39
+34            android:name="com.example.movieapplication.ui.MovieDetailActivity"
+34-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:25:13-51
+35            android:exported="true" />
+35-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:26:13-36
+36        <activity
+36-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:27:9-35:20
+37            android:name="com.example.movieapplication.ui.SplashActivity"
+37-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:28:13-46
+38            android:exported="true" >
+38-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:29:13-36
+39            <intent-filter>
+39-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:30:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:31:17-69
+40-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:31:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:33:17-77
+42-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:36:9-44:20
+46            android:name="com.example.movieapplication.ui.MainActivity"
+46-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:37:13-44
+47            android:exported="true" >
+47-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:38:13-36
+48            <intent-filter>
+48-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:30:13-34:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:31:17-69
+49-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:31:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:33:17-77
+51-->D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:33:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <provider
+55-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+56            android:name="com.squareup.picasso.PicassoProvider"
+56-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+57            android:authorities="com.example.movieapplication.com.squareup.picasso"
+57-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+58            android:exported="false" />
+58-->[com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+59        <provider
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+61            android:authorities="com.example.movieapplication.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
 63            <meta-data
-63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\rounak\.android\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-64-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\rounak\.android\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
 65                android:value="androidx.startup" />
-65-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\rounak\.android\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-66        </provider>
-67    </application>
-68
-69</manifest>
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\rounak\.android\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\rounak\.android\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\rounak\.android\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>

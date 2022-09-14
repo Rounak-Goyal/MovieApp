@@ -30,6 +30,18 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
             </TextView>
+            <Button
+                android:id="@+id/btn_show_recommendations"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="140dp"
+                android:text="Show Recommendations"
+                android:textAllCaps="false"
+                android:padding="1dp"
+                android:textColor="#B6B5B5"
+                android:backgroundTint="#222121"
+                android:layout_marginEnd="5dp"
+                android:textSize="10sp"/>
         </LinearLayout>
 
         <androidx.recyclerview.widget.RecyclerView
@@ -70,7 +82,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_round_navigate_before_24"
-                    app:tint="#918C8C"
+                    app:tint="#919090"
                     />
                 <TextView
                     android:id="@+id/tv_page"
@@ -90,7 +102,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:src="@drawable/ic_round_navigate_next_24"
-                    app:tint="#939191"
+                    app:tint="#A19E9E"
                     />
             </LinearLayout>
         </LinearLayout>

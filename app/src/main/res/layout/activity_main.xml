@@ -30,6 +30,18 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
             </TextView>
+            <Button
+                android:id="@+id/btn_show_recommendations"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="140dp"
+                android:text="Show Recommendations"
+                android:textAllCaps="false"
+                android:padding="1dp"
+                android:textColor="#B6B5B5"
+                android:backgroundTint="#222121"
+                android:layout_marginEnd="5dp"
+                android:textSize="10sp"/>
         </LinearLayout>
 
         <androidx.recyclerview.widget.RecyclerView

@@ -1,15 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\rounak\.android\caches\transforms-3\6dd341f1aaa781be49a8f752078a6907\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rounak\.android\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\rounak\.android\caches\transforms-3\69592bd19cec1de513dd3643bec51fc2\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:2:1-14:12
 MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\rounak\.android\caches\transforms-3\7e95039a839fb6b93b5bec1b738f3d4c\transformed\rxandroid-3.0.0\AndroidManifest.xml:15:1-20:12
 MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\rounak\.android\caches\transforms-3\ca86b8164fa25e6e6b834f154d4cb643\transformed\timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\rounak\.android\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\rounak\.android\caches\transforms-3\29bdfe4f1619e457b1b22ec172982bb4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\rounak\.android\caches\transforms-3\3af58183984f589ef7457f1f5258590d\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
@@ -47,41 +48,41 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rounak\.android\
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rounak\.android\caches\transforms-3\daafd13ed6472e5d90ee94a442cae491\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\rounak\.android\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\rounak\.android\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:4:5-43
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:2:1-44:12
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:3:5-63
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:3:5-63
 uses-permission#android.permission.INTERNET
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:6:22-76
 queries
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:7:5-11:15
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:7:5-11:15
 intent#action:name:com.google.android.youtube.api.service.START
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:8:9-10:18
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:8:9-10:18
 action#com.google.android.youtube.api.service.START
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:9:13-83
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:9:13-83
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:9:21-80
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:9:21-80
 application
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:14:5-42:19
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:14:5-45:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\rounak\.android\caches\transforms-3\6dd341f1aaa781be49a8f752078a6907\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\rounak\.android\caches\transforms-3\6dd341f1aaa781be49a8f752078a6907\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rounak\.android\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -103,49 +104,55 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\rounak\.android\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\rounak\.android\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:17:9-41
 	android:roundIcon
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:18:9-54
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:18:9-54
 	android:icon
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:20:9-54
+activity#com.example.movieapplication.ui.RecommendActivity
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:21:9-23:39
+	android:exported
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:22:13-49
 activity#com.example.movieapplication.ui.MovieDetailActivity
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:21:9-23:39
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:24:9-26:39
 	android:exported
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:22:13-51
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:25:13-51
 activity#com.example.movieapplication.ui.SplashActivity
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:exported
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:25:13-46
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:28:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.example.movieapplication.ui.MainActivity
-ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:33:9-41:20
+ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:36:9-44:20
 	android:exported
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:35:13-36
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml:34:13-44
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml:37:13-44
 uses-sdk
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\rounak\.android\caches\transforms-3\6dd341f1aaa781be49a8f752078a6907\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\rounak\.android\caches\transforms-3\6dd341f1aaa781be49a8f752078a6907\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rounak\.android\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -158,6 +165,8 @@ MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\rounak\.android\cach
 MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\rounak\.android\caches\transforms-3\7e95039a839fb6b93b5bec1b738f3d4c\transformed\rxandroid-3.0.0\AndroidManifest.xml:18:5-43
 MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\rounak\.android\caches\transforms-3\ca86b8164fa25e6e6b834f154d4cb643\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\rounak\.android\caches\transforms-3\ca86b8164fa25e6e6b834f154d4cb643\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\rounak\.android\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\rounak\.android\caches\transforms-3\dbae40e0053da6d866feea2ea10445c4\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rounak\.android\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\rounak\.android\caches\transforms-3\29bdfe4f1619e457b1b22ec172982bb4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
@@ -232,16 +241,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\rounak\.android\caches\transfo
 MERGED from [androidx.print:print:1.0.0] C:\Users\rounak\.android\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\rounak\.android\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\rounak\.android\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\wAndroid Development\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Machine Learning\Android version\MovieApplication\app\src\main\AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\rounak\.android\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
 	android:authorities

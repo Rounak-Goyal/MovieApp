@@ -1856,6 +1856,8 @@ dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen action_bar_size
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
 dimen appcompat_dialog_background_inset
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
@@ -2601,6 +2603,7 @@ id asConfigured
 id async
 id auto
 id autoComplete
+id autoCompleteTextView1
 id autoCompleteToEnd
 id autoCompleteToStart
 id barrier
@@ -2614,6 +2617,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_show_recommendations
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2877,6 +2881,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id recButton
 id rectangles
 id recycler_PopularMovie
 id recycler_TopCurrentMovies
@@ -2891,6 +2896,7 @@ id row_index_key
 id rv
 id rvCast
 id rvRecommendContents
+id rv_rec
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2978,6 +2984,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView1
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3133,6 +3141,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_movie_detail
+layout activity_recommend
 layout activity_splash
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3150,6 +3159,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout dropdown_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
