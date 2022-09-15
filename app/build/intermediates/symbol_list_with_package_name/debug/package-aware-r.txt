@@ -2472,6 +2472,9 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_round_navigate_before_24
 drawable ic_round_navigate_next_24
 drawable icon
+drawable icon2
+drawable icon3
+drawable iconn
 drawable loading_black
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay

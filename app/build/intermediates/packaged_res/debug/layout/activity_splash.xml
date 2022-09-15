@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.SplashActivity"
-    android:background="@color/white">
+    android:background="#E8E6E6">
     <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="@drawable/icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/icon3"
         android:layout_centerInParent="true"
         android:layout_margin="30dp">
     </RelativeLayout>

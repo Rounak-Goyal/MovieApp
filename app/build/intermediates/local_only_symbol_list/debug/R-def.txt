@@ -13,6 +13,9 @@ drawable ic_launcher_background
 drawable ic_round_navigate_before_24
 drawable ic_round_navigate_next_24
 drawable icon
+drawable icon2
+drawable icon3
+drawable iconn
 drawable loading_black
 id autoCompleteTextView1
 id btn_show_recommendations
