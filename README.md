@@ -1,6 +1,6 @@
 ## MovieApp
 OTT Movie Application
-### Download App :  <a href="APK/MovieApp.apk"> Download </a> 
+### Download App :  <a href="https://github.com/Rounak-Goyal/MovieApp/blob/master/APK/MovieApp.apk" download> Download </a> 
 
 #### Images:<br>
 <span>
