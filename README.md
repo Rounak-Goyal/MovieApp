@@ -9,4 +9,4 @@ OTT Movie Application
 <img src="screenshots/3.png" height=400 width=200>
 <img src="screenshots/4.png" height=400 width=200>
 <img src="screenshots/5.png" height=400 width=200>
-</span>
+</span> 
